@@ -1,0 +1,11 @@
+/.cache
+/build
+/public/build
+/postgres-data
+/app/styles/app.css
+tests/state.json
+
+node_modules/
+node_modules
+node_modules/**/*
+.env
